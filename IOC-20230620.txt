@@ -1,0 +1,19 @@
+1 Bitter
+greenspowerpanel.com#C2#82.221.136.1#Proxy
+2 SideWinder
+file-downlod.net#C2#193.42.39.175#normal
+mail-ntc.net#C2#198.252.101.21#normal
+mofagov.info#C2#79.141.174.157#normal  
+3 kimsuky
+greenspace1.com#C2#183.111.100.193#Proxy
+scienceontheweb.net#C2#185.176.43.106#Proxy
+4 patchwork
+mot58744.b-cdn.net#file_server#84.17.63.178#cdn
+54874ccc.b-cdn.net#file_server#84.17.63.178#cdn
+5 Lazarus
+spirtblockchain.com#C2#104.168.167.88#Proxy
+6 Donot
+superchess.buzz#C2#64.52.80.59#normal
+7 APT32
+185.82.126.4#C2
+198.244.207.133 #C2
