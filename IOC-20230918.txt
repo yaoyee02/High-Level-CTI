@@ -1,0 +1,48 @@
+11.0.188.38	443	apt34		
+77.247.127.10:9898		Hagga		
+207.32.218.112:9898		Hagga		
+69.61.36.170 	80	bitter	thenewmusictunes.com	
+104.21.36.72/172.67.188.135	80	patchwork	http://mfaturk.com	
+134.255.252.75	443	patchwork	morimocanab.com	
+46.254.21.69、	80	CNC	navercorp.ru	
+77.72.17.124	80	bitter	neozelappconsole.com	20230906
+91.193.18.248
+	443	cnc		20230915
+88.119.161.15	443	cnc		
+77.247.127.10:9898		Hagga		
+207.32.218.112:9898		Hagga		
+69.61.36.170	80	bitter	thenewmusictunes.com	
+104.21.36.72/172.67.188.135	80	patchwork	http://mfaturk.com	
+134.255.252.75	443	patchwork	morimocanab.com	
+46.254.21.69、	80	CNC	navercorp.ru	
+5.255.104.34	443	sidewinder	zed.shrtny.live	
+77.72.17.124	80	bitter	neozelappconsole.com	
+82.221.136.4	80	bitter	farlookclinic.com	
+82.221.136.47	80	bitter	mxsiclienteventlog.com	
+91.223.82.6	80	bitter	myappmgmtconsole.co	
+91.223.82.6	80	bitter	btfashionpark.com	
+82.221.136.1	80	bitter	webandersondesign.com	
+162.0.235.5	80	bitter	http://zhaodaolajiankang.com	
+45.56.165.111	80	Bitter	atocguserservice.com	
+104.168.146.39	80	CNC		
+84.32.214.17	443	Donot	mynotify.life
+notifymy.life	
+84.32.214.17	80	Donot	mynotify.life
+notifymy.life	
+84.32.214.20	443	Donot	financemy.live	
+84.32.214.20	80	Donot	financemy.live	
+84.32.214.21	80	Donot	giftsspace.live	
+84.32.214.21	443	Donot	giftsspace.live	
+84.32.214.22	443	Donot	signifymy.life
+mysignify.life	
+84.32.214.22	80	Donot	signifymy.life
+mysignify.life	
+89.147.111.139	80	Donot	mymsg.life
+msghub.life
+gifteen.life	
+45.125.67.154	80	Patchwork	caixin.live	
+79.141.168.220	80	Patchwork	ninja9005.com	
+8.209.221.234	80,443	Patchwork		
+162.245.190.24:{10108,16197,18968,20103,26784}		apt36		
+64.188.25.135,{8258,16257,19267,28682,32153}		apt36		
+79.143.177.122 4718,8682,10468,14486,16486		apt36		20230915
