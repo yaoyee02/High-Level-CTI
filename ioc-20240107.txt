@@ -1,0 +1,110 @@
+1 Bitter
+198.54.125.252:80
+193.29.57.101
+adamsresearchshare.com
+mikeyourevents.com
+46.249.38.18:52993
+lcpcstudiover.com
+78.110.166.82;80
+74.119.193.181:80/443
+
+2 Sidewinder
+fia-gov.net
+direct888.net
+gov-org.net
+paknavy-gov.org
+donwloaded.net
+aliyum.tech
+163inc.com
+updtesession.online
+mfa-gov.info
+mofagovs.org
+mofa-gov.info
+cox.scatred.info
+193.29.59.178
+
+3 Patchwork
+185.74.222.77
+nmediacn.cloud
+cflayerprotection.com
+cloudlflares.com
+tyfk1.b-cdn.net
+wingpao.info
+pd35.b-cdn.net
+pl335.b-cdn.net
+triptrans.info
+rabcomputersupportgroup.com
+
+4 Donot
+5.199.168.222
+5.199.168.239
+5.199.168.164
+84.32.214.40
+162.33.178.84
+bakedcakes.online
+stores.bakedcakes.online
+natureplants.online
+life.natureplants.online
+speedrugg.info
+
+5 DarkHotel
+212.117.166.196:21296
+185.66.143.71:443
+
+6 Lazarus
+104.168.162.232
+104.168.198.145
+23.254.204.173
+155.94.208.209
+185.29.8.53
+27.102.113.93
+201.77.179.66:8082
+micrsofts.tech
+tech.micrsofts.com
+tech.micrsofts.tech
+commoncome.site
+good.commoncome.site
+wideocean.run.place
+
+7 Kimsuky
+218.150.78.197
+203.109.28.62
+211.171.168.218
+59.19.215.13
+27.255.81.76
+122.155.191.33
+104.168.145.83:993
+107.148.71.88:993
+159.100.6.137:993
+38.110.1.69:993
+45.114.129.138:33890
+45.114.129.138:5500
+bitburny.kro.kr
+bitthum.kro.kr
+doma2.o-r.kr
+my.topton.r-e.kr
+nobtwoseb1.n-e.kr
+octseven1.p-e.kr
+tehyeran1.r-e.kr
+update.ahnlaib.kro.kr
+update.doumi.kro.kr
+update.onedrive.p-e.kr
+yes24.r-e.kr
+
+8 APT32
+161.129.34.132
+
+9 APT28
+194.126.178.8
+88.209.251.6
+194.126.178.8:445
+czyrqdnvpujmmjkfhhvs4knf1av02demj.oast.fun
+czyrqdnvpujmmjkfhhvsclx05sfi23bfr.oast.fun
+czyrqdnvpujmmjkfhhvsgapqr3hclnhhj.oast.fun
+czyrqdnvpujmmjkfhhvsvlaax17vd5r6v.oast.fun
+e-nas.firstcloudit.com
+nas-files.firstcloudit.com
+ua-calendar.firstcloudit.com
+
+10 APT29
+matclick.com
