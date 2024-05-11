@@ -1,0 +1,39 @@
+1 Donot
+uploadwebpicts.store
+178.63.172.6 
+brokensences.info 
+38.180.139.6
+
+2 Lazarus
+regular-meeting.pro
+regular-meeting.online
+regular-meeting.site
+regular-meeting.xyz
+67.203.7.245:21
+
+3 Patchwork
+fatodex.b-cdn.net
+
+4 Sidewinder
+govt-net.com
+mofa-govtpk.com
+dgps-govpk.com
+dgps-govpk.org
+libqstur.tech
+moma-gov-pk.org
+downloadabledocx.com
+xdgps-govpk.co
+
+5 APT28
+172.114.170.18:80
+172.114.170.18:445
+postfix-mail.firstcloudit.com
+198.27.64.218
+
+6 Bitter
+167.88.15.93:61920
+smartclouddirect.com
+yalinasculetips.com
+47.94.19.69:8080
+oraclewebonline.com
+
