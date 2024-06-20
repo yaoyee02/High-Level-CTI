@@ -1,0 +1,33 @@
+1 Bitter
+viyoappmapper.com
+
+2 Patchwork
+nihaoucloud.org
+
+3 APT29
+194.180.191.15:80
+
+4 Lazarus
+cryptopriceoffer.com
+
+5 Muddywater
+egnyte-www-static.egnyte.com
+fbcsoft.egnyte.com
+gcare.egnyte.com
+ksa1.egnyte.com
+nour.egnyte.com
+
+6 Sidewinder
+mods.email
+dgps-govtpk.com
+
+7 APT28
+174.53.242.108:8080
+68.76.150.97:8080
+73.80.9.137:35780
+
+8 Transparenttribe
+84.247.170.237:4858
+dipl.site
+supplyprodaily.servehttp.com
+
